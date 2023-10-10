@@ -1,5 +1,5 @@
 .header {
-    background-color: white;
+    background-color: rgb(252, 252, 252);
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-    background-color: rgb(241, 179, 64);
+    background-color: rgb(243, 186, 47);
 }
 
 /* Dropdown styling */
@@ -118,7 +118,7 @@ a:hover {
 .search-icon::before {
     content: '\1F50D';
     font-size: 20px;
-    color: #aaa;
+    color: #c7bbbb;
     transition: color 0.3s ease-in-out;
 }
 
